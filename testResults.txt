@@ -1,0 +1,64 @@
+6	2	4	5	3	9	1	8	7
+5	1	9	7	2	8	6	3	4
+8	3	7	6	1	4	2	9	5
+1	4	3	8	6	5	7	2	9
+9	5	8	2	4	7	3	6	1
+7	6	2	3	9	1	4	5	8
+3	7	1	9	5	6	8	4	2
+4	9	6	1	8	2	5	7	3
+2	8	5	4	7	3	9	1	6
+140449712559872 TRow: 0, BRow: 8, LCol: 0, RCol: 0 valid!
+140449704167168 TRow: 0, BRow: 8, LCol: 1, RCol: 1 valid!
+140449695774464 TRow: 0, BRow: 8, LCol: 2, RCol: 2 valid!
+140449687381760 TRow: 0, BRow: 8, LCol: 3, RCol: 3 valid!
+140449678989056 TRow: 0, BRow: 8, LCol: 4, RCol: 4 valid!
+140449670596352 TRow: 0, BRow: 8, LCol: 5, RCol: 5 valid!
+140449662203648 TRow: 0, BRow: 8, LCol: 6, RCol: 6 valid!
+140449653810944 TRow: 0, BRow: 8, LCol: 7, RCol: 7 valid!
+140449645418240 TRow: 0, BRow: 8, LCol: 8, RCol: 8 valid!
+140449637025536 TRow: 0, BRow: 0, LCol: 0, RCol: 8 valid!
+140449628632832 TRow: 1, BRow: 1, LCol: 0, RCol: 8 valid!
+140449620240128 TRow: 2, BRow: 2, LCol: 0, RCol: 8 valid!
+140449611847424 TRow: 3, BRow: 3, LCol: 0, RCol: 8 valid!
+140449603454720 TRow: 4, BRow: 4, LCol: 0, RCol: 8 valid!
+140449595062016 TRow: 5, BRow: 5, LCol: 0, RCol: 8 valid!
+140449586669312 TRow: 6, BRow: 6, LCol: 0, RCol: 8 valid!
+140449578276608 TRow: 7, BRow: 7, LCol: 0, RCol: 8 valid!
+140449569883904 TRow: 8, BRow: 8, LCol: 0, RCol: 8 valid!
+140449561491200 TRow: 0, BRow: 2, LCol: 0, RCol: 2 valid!
+140449553098496 TRow: 3, BRow: 5, LCol: 0, RCol: 2 valid!
+140449544705792 TRow: 6, BRow: 8, LCol: 0, RCol: 2 valid!
+140449536313088 TRow: 0, BRow: 2, LCol: 3, RCol: 5 valid!
+140449527920384 TRow: 3, BRow: 5, LCol: 3, RCol: 5 valid!
+140449519527680 TRow: 6, BRow: 8, LCol: 3, RCol: 5 valid!
+140449511134976 TRow: 0, BRow: 2, LCol: 6, RCol: 8 valid!
+140449502742272 TRow: 3, BRow: 5, LCol: 6, RCol: 8 valid!
+140449494349568 TRow: 6, BRow: 8, LCol: 6, RCol: 8 valid!
+Column: 140449712559872 valid
+Column: 140449704167168 valid
+Column: 140449695774464 valid
+Column: 140449687381760 valid
+Column: 140449678989056 valid
+Column: 140449670596352 valid
+Column: 140449662203648 valid
+Column: 140449653810944 valid
+Column: 140449645418240 valid
+Row: 140449637025536 valid
+Row: 140449628632832 valid
+Row: 140449620240128 valid
+Row: 140449611847424 valid
+Row: 140449603454720 valid
+Row: 140449595062016 valid
+Row: 140449586669312 valid
+Row: 140449578276608 valid
+Row: 140449569883904 valid
+Subgrid: 140449561491200 valid
+Subgrid: 140449553098496 valid
+Subgrid: 140449544705792 valid
+Subgrid: 140449536313088 valid
+Subgrid: 140449527920384 valid
+Subgrid: 140449519527680 valid
+Subgrid: 140449511134976 valid
+Subgrid: 140449502742272 valid
+Subgrid: 140449494349568 valid
+Sudoku Puzzle: valid
